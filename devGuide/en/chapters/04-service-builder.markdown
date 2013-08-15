@@ -814,7 +814,7 @@ been constructing services for the Nose-ster Event Listing portlet. We'll start
 by examining the initial service classes we generated for it using Service
 Builder. 
 
-Note that Service Builder created an `EventLocalService` class which is is the
+Note that Service Builder created an `EventLocalService` class which is the
 interface for the local service. It contains the signatures of every method in
 `EventLocalServiceBaseImpl` and `EventLocalServiceImpl`.
 `EventLocalServiceBaseImpl` contains a few automatically generated methods
